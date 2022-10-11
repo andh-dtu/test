@@ -4,7 +4,7 @@ Title EllipSys Roadmap
 dateFormat YYYY-MM-DD
 axisFormat %m-%y
  
-section R&D Topic12
+section R&D Topic1
 Project 1 (PM): p1, 2022-01-01, 2024-08-01
 D1.1 : milestone, m11, 2023-01-01, 2min
 D1.2 : milestone, m12, after p1, 2min
